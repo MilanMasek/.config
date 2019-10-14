@@ -9,4 +9,5 @@ Features:
    - git branch
 
 Example:
+
 ![image](./repo-art/screenshot-bash.png)
