@@ -1,5 +1,9 @@
+# Local userspace .config directory 
+Tools configuration for easier backup and restore purposes
+
 ### Powerline Bash user config
 Features:
-- Multiple command line prompt
+- Multiple command line prompt.
 
-[image](./repo-art/screenshot-bash.png)
+Example:
+![image](./repo-art/screenshot-bash.png)
