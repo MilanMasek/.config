@@ -1,4 +1,4 @@
-# Local userspace .config directory 
+# Userspace .config directory of various tools
 Tools configuration for easier backup and restore purposes
 
 ## Powerline Bash prompt on two lines
