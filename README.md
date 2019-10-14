@@ -2,4 +2,4 @@
 Features:
 - Multiple command line prompt
 
-!(repo-art/screenshot-bash.png)
+[[https://github.com/MilanMasek/.config/blob/master/repo-art/screenshot-bash.png]]
