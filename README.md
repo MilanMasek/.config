@@ -1,5 +1,5 @@
-### Powerline Bash
+### Powerline Bash user config
 Features:
 - Multiple command line prompt
 
-[[https://github.com/MilanMasek/.config/blob/master/repo-art/screenshot-bash.png]]
+[image](./repo-art/screenshot-bash.png)
