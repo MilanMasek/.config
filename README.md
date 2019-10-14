@@ -20,4 +20,4 @@ $ sudo apt install python-pip
 $ pip install powerline-status powerkube
 ```
 
-```git clone``` this repo after you get powerline
+```git clone https://github.com/MilanMasek/.config.git``` this repo after you get powerline
