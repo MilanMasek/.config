@@ -30,4 +30,9 @@ powerline-status (2.7)
 
 You may have to fix Powerkube following this PR (https://github.com/zcmarine/powerkube/pull/3/files).
 
-```git clone https://github.com/MilanMasek/.config.git``` this repo after you get powerline
+Finally, get this repo.
+
+```
+cd ~
+git clone https://github.com/MilanMasek/.config.git
+```
