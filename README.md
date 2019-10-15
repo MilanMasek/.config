@@ -13,7 +13,7 @@ Example:
 
 ### Installation
 
-Powerline installed using pip (in my case on ![Mint 19.2](https://www.linuxmint.com/start/tina/))
+Powerline installed using pip (in my case on [Mint 19.2](https://www.linuxmint.com/start/tina/))
 ```
 $ sudo apt install python-pip
 $ pip install powerline-status powerkube
