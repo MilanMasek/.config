@@ -14,11 +14,12 @@ Example:
 ### Installation
 
 With [Mint 19.2](https://www.linuxmint.com/start/tina/) you may install Powerline using pip.
-Install Pip
+
+Install Pip.
 ```
 $ sudo apt install python-pip
 ```
-Install Powerline and Powerkube
+Deploy Powerline and Powerkube
 ```
 $ pip install powerline-status powerkube
 
