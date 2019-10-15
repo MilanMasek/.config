@@ -13,15 +13,20 @@ Example:
 
 ### Installation
 
-Powerline installed using pip (in my case on [Mint 19.2](https://www.linuxmint.com/start/tina/))
+With [Mint 19.2](https://www.linuxmint.com/start/tina/) you may install Powerline using pip.
+Install Pip
 ```
 $ sudo apt install python-pip
+```
+Install Powerline and Powerkube
+```
 $ pip install powerline-status powerkube
 
 $ pip list | grep power
 powerkube (0.1.3)
 powerline-status (2.7)
-
 ```
+
+You may have to fix Powerkube following this PR (https://github.com/zcmarine/powerkube/pull/3/files).
 
 ```git clone https://github.com/MilanMasek/.config.git``` this repo after you get powerline
