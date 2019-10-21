@@ -4,7 +4,7 @@
 Features:
 - Command line prompt on multiple lines (two in my case). You can change at [./powerline/themes/shell/default_multiline.json](./powerline/themes/shell/default_multiline.json)
 - Shows
-   - Kubernetes context (thanks to Powerkube project Powerline plugin). Manage Normal/Warn/Alert colors for Kubernetes context - cluster/namespace at [./powerline/colorschemes/shell/default.json](./powerline/colorschemes/shell/default.json). Manage color-namespace/cluster bindings in [./powerline/colorschemes/shell/default_multiline.json]. 
+   - Kubernetes context (thanks to Powerkube project Powerline plugin). Manage Normal/Warn/Alert colors for Kubernetes context - cluster/namespace at [./powerline/colorschemes/shell/default.json](./powerline/colorschemes/shell/default.json). Manage color-namespace/cluster bindings in [./powerline/colorschemes/shell/default_multiline.json](./powerline/colorschemes/shell/default_multiline.json). 
    - git branch
 
 Example:
