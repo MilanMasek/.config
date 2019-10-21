@@ -23,14 +23,14 @@
                             "priority": 10
                         },
                         {
-                                    "function": "powerkube.context",
-                                        "priority": 30,
-                                        "args": {"show_cluster": true,
-                                                "show_namespace": true,
-                                            "show_user": false,
-                                            "warn_clusters": ["czdcs-os1-master-lx-ifortuna-cz:8443"],
-                                                "alert_clusters": ["czdcp-os1-master-lx-ifortuna-cz:8443"],
-                                            "alert_namespaces": ["default", "infra-prod"]}
+                            "function": "powerkube.context",
+                                "priority": 30,
+                                "args": {"show_cluster": true,
+                                        "show_namespace": true,
+                                    	"show_user": false,
+                                    	"warn_clusters": ["czdcs-os1-master-lx-ifortuna-cz:8443"],
+                                        "alert_clusters": ["czdcp-os1-master-lx-ifortuna-cz:8443"],
+                                    	"alert_namespaces": ["default", "feedtools"]}
                         },
                         {
                             "function": "powerline.segments.common.vcs.branch",
